@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- CSE 445 Assignment 4, Q1.3: copy of NationalParks.xml with 5 injected errors -->
-<!-- Error 1: root element is NationalPark instead of NationalParks -->
-<!-- Error 2: Yellowstone Address is missing the required NearestAirport attribute -->
-<!-- Error 3: Zion has no Phone element -->
-<!-- Error 4: Mount Rainier Address has no closing tag -->
-<!-- Error 5: Rocky Mountain has two Name elements -->
 <NationalPark>
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
